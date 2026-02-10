@@ -7,6 +7,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Vulnerability Management Program Implementation](https://github.com/sobaanazam/vulnerability-management-program)**
 
+## 🚨 Threat Hunt Projects
+
 <hr/>
 
 ## 🤳 Connect With Me
