@@ -11,6 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunt Scenario (Tor Browser Usage)](https://github.com/sobaanazam/Threat-Hunting-Scenario-Tor-Browser-Usage-)**
 - **[Threat Hunt Scenario (Network Performance)](https://github.com/sobaanazam/threat-hunt-network-performance)**
+- **[Threat Hunt Scenario (Azuki Breach Investigation)](https://github.com/sobaanazam/Threat-Hunt-Azuki-Breach-Investigation)**
 
 <hr/>
 
